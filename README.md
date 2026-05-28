@@ -16,7 +16,7 @@ Durante o laboratório, entendi o EC2 como um “computador virtual”, onde é 
 
 Essas instâncias podem ser utilizadas para hospedar aplicações, APIs, bancos de dados e diversos outros serviços.
 
-![Instancia EC2](images/ec2.jpg)
+![Instancia EC2](imagens/ec2.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ Os snapshots funcionam como backups dos volumes EBS.
 
 Aprendi que eles são muito importantes para recuperação de dados e segurança do ambiente, permitindo restaurar informações caso aconteça algum problema na instância.
 
-![Snapshot EBS](images/snapshot.jpg)
+![Snapshot EBS](imagens/snapshot.jpg)
 
 ---
 
@@ -44,7 +44,8 @@ AMI significa Amazon Machine Image.
 
 Entendi a AMI como uma “imagem pronta” de uma instância EC2 já configurada. Isso permite criar novas instâncias com as mesmas configurações, aplicações e sistema operacional da instância original.
 
-![AMI AWS](images/ami.jpg)
+![AMI AWS](imagens/ami.jpg)
+
 
 ---
 
